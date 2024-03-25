@@ -6,6 +6,6 @@
     <title>kg-ozong-home</title>
 </head>
 <body>
-    
+    <button>To checkout</button>
     </body>
 </html>
